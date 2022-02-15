@@ -1,1 +1,1 @@
-web:node index.js
+worker : npm i ffmpeg && npm i @adiwajshing/baileys@3.5.3 && node haruka.js
